@@ -1,4 +1,4 @@
-<h1>GROCER APP</h1>
+<h1>GROCERY APP</h1>
 
 <h3><u>Aim</u>:</h3> This project is to list the items so that whenever users go to grocery stores, users will not be able to forget their items and this grocery application helps the users to tackle their day to day chaos more effortlessly
 
