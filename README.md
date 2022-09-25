@@ -27,8 +27,8 @@ I would like to convey my heartfelt gratitude to Mr Sandeep Doodigani for his tr
 <li>Google Developer profile</li> 
 <a href="https://g.dev/geekonhigh">https://g.dev/geekonhigh</a>
 
-<li>smartIntern ID</li>
+<li>smartInternz ID</li>
 SBID: SB20220211547
 
-<li>smartIntern Profile</li>
+<li>smartInternz Profile</li>
  <a href="https://bit.ly/3r4eFNC">https://bit.ly/3r4eFNC</a>
